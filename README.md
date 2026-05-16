@@ -1,16 +1,31 @@
-## Hi there 👋
+# 这里是苏洛辰
 
-<!--
-**SSChen09/SSChen09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 在校职高生
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 关于我
+
+- 🤖 主要 **AI code**
+- 🌱 正在学习 **JavaScript / Python**
+- 🔭 最近在写 **[洛辰の博客](https://github.com/SSChen09/SSChen09.github.io)**
+- 📫 联系我：`sansanchen09@gmail.com`
+
+---
+
+### 🛠️ 在学技术
+
+`Python` `JavaScript` `TypeScript` `Node.js` `Docker` `Git`
+
+---
+
+
+### 🏷️ 联系渠道
+
+[个人网站](https://sschen09.github.io) · [X](https://x.com/sslc0721) · [BiliBili](https://space.bilibili.com/313257685) · [QQ](https://qm.qq.com/q/TY6HyMNZyq)
+
+---
+
+<p align="center">
+  <sub>✨ 保持你所热爱的 ✨</sub>
+</p>
