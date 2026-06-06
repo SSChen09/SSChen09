@@ -9,7 +9,7 @@
 - 🤖 主要 **AI code**
 - 🌱 正在学习 **JavaScript / Python**
 - 🔭 最近在写 **[洛辰の博客](https://github.com/SSChen09/SSChen09.github.io)**
-- 📫 联系我：`sansanchen09@gmail.com`
+- 📫 联系我优先渠道：`sansanchen09@gmail.com`
 
 ---
 
@@ -20,7 +20,7 @@
 ---
 
 
-### 🏷️ 联系渠道
+### 🏷️ 相关社交
 
 [个人网站](https://sschen09.github.io) · [X](https://x.com/sslc0721) · [BiliBili](https://space.bilibili.com/313257685) · [QQ](https://qm.qq.com/q/TY6HyMNZyq)
 
