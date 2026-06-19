@@ -8,7 +8,7 @@
 
 - 🤖 主要 **AI code**
 - 🌱 正在学习 **JavaScript / Python**
-- 🔭 最近在写 **[洛辰の博客](https://github.com/SSChen09/SSChen09.github.io)**
+- 🔭 最近在写 **[YSM Ppaer支持](https://github.com/SSChen09/YSMSync)**
 - 📫 联系我优先渠道：`sansanchen09@gmail.com`
 
 ---
