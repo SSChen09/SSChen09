@@ -7,18 +7,11 @@
 ### 📌 关于我
 
 - 🤖 主要 **AI code**
-- 🌱 正在学习 **JavaScript / Python**
-- 🔭 最近在写 **[YSM Ppaer支持](https://github.com/SSChen09/YSMSync)**
+- 🌱 正在学习 **JavaScript / Python / Jvav**
+- 🔭 最近在写 **[YSM Ppaer支持](https://github.com/SSChen09/YSMSync) & [洛の间](https://github.com/SSChen09.github.io)**
 - 📫 联系我优先渠道：`sansanchen09@gmail.com`
 
 ---
-
-### 🛠️ 在学技术
-
-`Python` `JavaScript` `TypeScript` `Node.js` `Docker` `Git`
-
----
-
 
 ### 🏷️ 相关社交
 
